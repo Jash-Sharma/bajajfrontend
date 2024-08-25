@@ -4,7 +4,6 @@
   "description": "Your project description here",
   "main": "index.js",
   "homepage": "https://jash-sharma.github.io/bajajfrontend",
-  
   "scripts": {
     "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "start": "react-scripts start",
